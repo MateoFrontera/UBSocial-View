@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ActividadesPage = () => {
+const ActividadesPage  = () => {
   return (
     <div>
       <h1>Welcome to the ActividadesPage</h1>
